@@ -4,11 +4,11 @@
 *  assignment has been copied manually or electronically from any other source (including web sites) or 
 *  distributed to other students.
 * 
-*  Name:  Student ID: 
+*  Name: Manveer Singh Student ID: 161626213
 *
-*  Cyclic Web App URL: 
+*  Cyclic Web App URL: https://calm-gold-leopard-cape.cyclic.cloud/
 *
-*  GitHub Repository URL: 
+*  GitHub Repository URL: https://github.com/Hyper-singh/web322-app-master_FinalProject
 *
 ********************************************************************************/ 
 
